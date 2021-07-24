@@ -22,7 +22,7 @@ Tam, gdzie w programie występują powtarzające się operacje lub zestaw polece
 realizujący wyodrębnione zadanie, wskazane jest używanie funkcji.
 Są to nazwane bloki kodu, które można grupować w ramach modułów (zob. :term:`funkcja`, :term:`moduł`).
 Funkcje zawarte w modułach można importować do różnych programów.
-Do tej pory korzystaliśmy np. z funkcji ``randit()`` zawartej w module ``random``.
+Do tej pory korzystaliśmy np. z funkcji ``randint()`` zawartej w module ``random``.
 
 Wyodrębnienie funkcji ułatwia sprawdzanie i poprawianie kodu, ponieważ
 wymusza podział programu na logicznie uporządkowane kroki. Jeżeli
